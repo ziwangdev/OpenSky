@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\School\LaiOffer\Projects\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2020882415.index
+507634941.index
+3831720038.index
+752397701.index
+2997942978.index
+1493672193.index
