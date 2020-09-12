@@ -13,7 +13,7 @@
  - Github Job API
 
   **Deployment**
-  - Amazon EC2
+  - Amazon EC2 (Linux Ubuntu instance managed using Docker)
 ## How do I see the website?
 
 You can view the website using the link: (system updating, posting soon!)
