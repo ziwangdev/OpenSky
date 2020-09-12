@@ -14,6 +14,6 @@
 
   **Deployment**
   - Amazon EC2
-## How can I see the website?
+## How do I see the website?
 
 You can view the website using the link: (system updating, posting soon!)
