@@ -1,3 +1,0 @@
-#Tomcat publish data
-#Sat Apr 25 15:37:21 PDT 2020
-org.eclipse.jst.j2ee.server\:jupiter=D\:\\Applications\\Tomcat\\apache-tomcat-9.0.34\\wtpwebapps\\jupiter
