@@ -1,5 +1,19 @@
-# open-sky
-Open Sky is an job recommendation web application, developed using HTML/CSS, JavaScript and Java.
-Data is fetched using Github's job API. 
-The website is deployed to AWS. 
-You can open the website and test it out using the link: (posting soon!)
+# Open Sky
+
+💻A job recommendation web application.
+
+## Technologies
+ **Front-end**
+ 
+ - HTML5/CSS, JavaScript
+ 
+ **Back-end**
+ 
+ - Java
+ - Github Job API
+
+  **Deployment**
+  - Amazon EC2
+## How can I see the website?
+
+You can view the website using the link: (system updating, posting soon!)
