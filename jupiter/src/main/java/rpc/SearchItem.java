@@ -44,8 +44,12 @@ public class SearchItem extends HttpServlet {
 			return;
 		}
 		String userId = request.getParameter("user_id");
-		double lat = Double.parseDouble(request.getParameter("lat"));
-		double lon = Double.parseDouble(request.getParameter("lon"));
+//		double lat = Double.parseDouble(request.getParameter("lat"));
+//		double lon = Double.parseDouble(request.getParameter("lon"));
+		
+		// using hardcoded NYC coordinates for testing
+		double lat = 40.7128;
+		double lon = -74.0060;
 
 		GitHubClient client = new GitHubClient();
 		List<Item> items = client.search(lat, lon, null);

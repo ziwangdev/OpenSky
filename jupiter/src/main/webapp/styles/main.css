@@ -31,6 +31,12 @@ ul {
 	z-index: 1;
 }
 
+.top-center{
+	padding-left: 45.5%;
+	position: absolute;
+	height: 45px;
+}
+
 .avatar {
 	background: #FFFFFF;
 	border-radius: 50%;
@@ -228,7 +234,7 @@ ul {
 }
 
 .main-nav-btn.active {
-	background: #F2EBD9;
+	background: #FFFFFF;
 	color: #624630;
 }
 
@@ -240,7 +246,7 @@ ul {
  * item list
  */
 #item-list {
-	background: #F2EBD9;
+	background: #FFFFFF;
 	color: #624630;
 	list-style: none;
 	margin-left: 180px;

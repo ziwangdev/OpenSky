@@ -24,7 +24,7 @@ import entity.Item.ItemBuilder;
 
 
 public class GitHubClient {
-	private static final String URL_TEMPLATE = "https://jobs.github.com/positions.json?description=%s&lat=%s&long=%s";
+	private static final String URL_TEMPLATE = "https://jobs.github.com/positions.json?description=%s"; //&lat=%s&long=%s";
 	private static final String DEFAULT_KEYWORD = "developer";
 
 	public List<Item> search(double lat, double lon, String keyword) {
@@ -36,7 +36,7 @@ public class GitHubClient {
 		} catch (UnsupportedEncodingException e) {
 			e.printStackTrace();
 		}
-		String url = String.format(URL_TEMPLATE, keyword, lat, lon);
+		String url = String.format(URL_TEMPLATE, keyword); //, lat, lon);
 		CloseableHttpClient httpClient = HttpClients.createDefault();
 		try {
 			CloseableHttpResponse response = httpClient.execute(new HttpGet(url));
