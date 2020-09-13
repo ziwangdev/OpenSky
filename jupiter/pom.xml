@@ -9,6 +9,7 @@
 	<name>jupiter Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
+		<javaVersion>1.8</javaVersion>
 	    <maven.compiler.source>1.8</maven.compiler.source>
 	    <maven.compiler.target>1.8</maven.compiler.target>
 	</properties>

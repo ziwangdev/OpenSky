@@ -21,7 +21,7 @@ ul {
  */
 .top-header {
 	align-items: center;
-	background: #DF574B;
+	background: #4899d4;
 	box-shadow: 0px 2px 10px #333333;
 	display: flex;
 	height: 60px;
@@ -82,7 +82,7 @@ ul {
 .container>header {
 	align-items: center;
 	background:
-		url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlWV6OFMhLUkHsggvaY3QWEyhlAz4M41oUnjpBgc95EqD9lzBV')
+		url('background.jpg')
 		no-repeat top;
 	background-size: 100%;
 	display: flex;
@@ -94,12 +94,12 @@ ul {
 	font-weight: 400;
 	font-size: 2em;
 	line-height: 1em;
-	margin-left: 220px;
+	margin-left: 300px;
 	padding-left: 5px;
 }
 
 .container>header span {
-	color: #FBAF41;
+	color: #1d3252;
 }
 
 /**
@@ -192,7 +192,7 @@ ul {
  * main section
  */
 .main-section {
-	background: #F3BB43;
+	background: #7cafd9;
 }
 
 /**
