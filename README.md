@@ -29,6 +29,7 @@
   **Deployment**
   - Amazon EC2 (Linux Ubuntu instance managed using Docker)
 ## How do I see the website?
-Because of issues stated in the above, a link to the website is accessble but the website is currently not functioning properly.
+Because of APIs limitations stated in the above, a link to the website is available but the job listings are not showing up properly.
+You can currently register for an account, login and logout after a while to test the session-based authentication implementation.
 You can view the website using the link: http://13.52.81.199/jupiter/
 
