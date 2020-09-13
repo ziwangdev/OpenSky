@@ -8,7 +8,8 @@
 ## Technologies
  **Front-end**
  
- - HTML5/CSS, JavaScript
+ - HTML5/CSS
+ - JavaScript
  
  **Back-end**
  
