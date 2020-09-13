@@ -3,7 +3,7 @@
 💻A job recommendation web application.
 
 ## Latest Issues
-- Fow now, Github Job API returns an empty result list for locations such as Los Angeles, Cupertino, Sunnyvale and other near-by California regions. Users who are using Open Sky within these areas will see an empty result page for jobs near by. There is an on-going addition of a search by location feature so users may see available jobs in other areas. There will be potential change of API for a complete solution to this issue. 
+- Fow now, Github Job API returns an empty result list for locations such as Los Angeles, Cupertino, Sunnyvale and other near-by California regions. Users who are using Open Sky within these areas will see an empty result page for jobs near by. There is an on-going addition of a search by location feature so users may see available jobs in other areas.
 
 ## Technologies
  **Front-end**
